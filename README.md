@@ -11,5 +11,4 @@
 ![Ekran Görüntüsü (58)](https://github.com/bekir7/Quiz-APP/assets/49992321/0fe1b500-714e-4144-828e-fb534905936d)
 ![Ekran Görüntüsü (57)](https://github.com/bekir7/Quiz-APP/assets/49992321/cfade4eb-3bab-4b9c-afdc-17672809b46e)
 
-## Apk 
 
